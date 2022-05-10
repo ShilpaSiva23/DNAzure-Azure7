@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\TestProjectwithJenkins\\TestProjectwithJenkins.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
+        "projectName": "JenkinsTest",
+        "projectPath": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
+        "packagesPath": "C:\\Users\\2107287\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2107287\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\TestProjectwithJenkins\\TestProjectwithJenkins.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\TestProjectwithJenkins\\TestProjectwithJenkins.csproj",
+        "projectName": "TestProjectwithJenkins",
+        "projectPath": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\TestProjectwithJenkins\\TestProjectwithJenkins.csproj",
+        "packagesPath": "C:\\Users\\2107287\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\TestProjectwithJenkins\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\2107287\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj": {
+                "projectPath": "C:\\Users\\2107287\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\JenkinsTest.exe
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\JenkinsTest.deps.json
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\JenkinsTest.runtimeconfig.json
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\JenkinsTest.dll
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\ref\JenkinsTest.dll
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\bin\Debug\net6.0\JenkinsTest.pdb
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.csproj.AssemblyReference.cache
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.AssemblyInfoInputs.cache
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.AssemblyInfo.cs
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.dll
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\ref\JenkinsTest.dll
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.pdb
+C:\Users\2107287\source\repos\JenkinsTest\JenkinsTest\obj\Debug\net6.0\JenkinsTest.genruntimeconfig.cache
